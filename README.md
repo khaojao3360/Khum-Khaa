@@ -9,5 +9,11 @@ Designed as a mobile application built with the Flutter framework, Khum Kha allo
 
 ## Demo
 
-Insert gif or link to demo
+![Image](https://github.com/user-attachments/assets/ccabce16-0487-432f-93b4-0c1956717543)
 
+
+
+
+## Final
+
+![Image](https://github.com/user-attachments/assets/a9bfca4f-3737-4d3b-9781-27b5fc6e73c2)
