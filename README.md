@@ -1,16 +1,13 @@
-# service
+# Khum Kha 🛒📊
 
-A new Flutter project.
+Khum Kha was created to solve the hassle of manually comparing product prices—a process that can quickly become confusing, especially when dealing with multiple items. Instead of relying on mental calculations or a calculator, which can lead to errors and inefficiencies, Khum Kha simplifies the process. 
 
-## Getting Started
+Designed as a mobile application built with the Flutter framework, Khum Kha allows users to effortlessly compare unit prices with a clear and intuitive interface. With this app, making informed purchasing decisions becomes quick, easy, and hassle-free.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+
+Insert gif or link to demo
+
